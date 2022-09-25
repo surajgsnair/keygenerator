@@ -1,0 +1,17 @@
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/KeyGenerator
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/KeyGenerator.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/KeyGenerator.deps.json
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/KeyGenerator.runtimeconfig.json
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/KeyGenerator.pdb
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Extensions.Configuration.Resolver.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Extensions.Configuration.Sources.Objects.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.Binder.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Microsoft.Extensions.Configuration.Json.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/surajgs/Projects/KeyGenerator/KeyGenerator/bin/Release/net6.0/publish/Microsoft.Extensions.Primitives.dll

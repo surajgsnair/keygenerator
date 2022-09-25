@@ -1,0 +1,17 @@
+/Users/surajgs/Documents/KeyGenerator/KeyGenerator
+/Users/surajgs/Documents/KeyGenerator/KeyGenerator.dll
+/Users/surajgs/Documents/KeyGenerator/KeyGenerator.deps.json
+/Users/surajgs/Documents/KeyGenerator/KeyGenerator.runtimeconfig.json
+/Users/surajgs/Documents/KeyGenerator/KeyGenerator.pdb
+/Users/surajgs/Documents/KeyGenerator/Extensions.Configuration.Resolver.dll
+/Users/surajgs/Documents/KeyGenerator/Extensions.Configuration.Sources.Objects.dll
+/Users/surajgs/Documents/KeyGenerator/Microsoft.Extensions.Configuration.dll
+/Users/surajgs/Documents/KeyGenerator/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/surajgs/Documents/KeyGenerator/Microsoft.Extensions.Configuration.Binder.dll
+/Users/surajgs/Documents/KeyGenerator/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/surajgs/Documents/KeyGenerator/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/surajgs/Documents/KeyGenerator/Microsoft.Extensions.Configuration.Json.dll
+/Users/surajgs/Documents/KeyGenerator/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/surajgs/Documents/KeyGenerator/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/surajgs/Documents/KeyGenerator/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/surajgs/Documents/KeyGenerator/Microsoft.Extensions.Primitives.dll
